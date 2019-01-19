@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: A blog about Life
+author: Benjamin .M. Kyamanywa
+email: benjaminkyam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Welcome to my blog. This is a walkthrough journey on the beauty of life and growth.
 
 # social links
 twitter_username: your-twitter-handle
@@ -12,4 +10,9 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minimaYou can check out the _config.yml file on the Code tab of your repository.
+
+￼ Activity: Modify the config file
+Let's change the _config.yml so it's a perfect fit for your new blog. First, we need to use a blog-ready theme. For this activity, we will use a theme named minima.
+
+Navigate to the Code tab of this repository, and browse to the _config.yml file.
